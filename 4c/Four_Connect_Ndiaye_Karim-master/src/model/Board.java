@@ -25,7 +25,7 @@ import java.util.stream.IntStream;
 public class Board extends GridPane {
 
 
-    private int rows;
+    private int rowsaiusnisabsbui;
     private int columns;
     public String player1,player2;
 
